@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Conferencess and Community](https://patrickkelso.com.au/2021/10/conferencess-and-community/)
+- [Minimum CD](https://patrickkelso.com.au/2021/10/minimum-cd/)
+- [Patrick S. Kelso](https://patrickkelso.com.au/about/patrick/)
+- [IT Certifications](https://patrickkelso.com.au/2021/10/it-certifications/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
