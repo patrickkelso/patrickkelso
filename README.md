@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick S. Kelso</h1>
 <h3 align="center">I am passionate about helping teams leverage technology to be the best they can be.</h3>
 
-- 🌱 I’m currently learning **testing tools**
+- 🌱 I’m currently learning **Testing tools**
 
 - 👯 I’m looking to collaborate on [The CD Manifesto](https://github.com/Minimum-CD/cd-manifesto)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Legacy to DevSecOps transformations and growing your teams.**
 
-- 📫 How to reach me **[@patrickkelos](https://twitter.com/patrickkelso)**
+- 📫 How to reach me **[@patrickkelso](https://twitter.com/patrickkelso)**
 
 - 📄 Know about my experiences [https://linkedin.com/in/patrickkelso](https://linkedin.com/in/patrickkelso)
 
@@ -33,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickkelso&show_icons=true&locale=en" alt="patrickkelso" /></p>
 
-Made using the most excellent [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
